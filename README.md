@@ -137,8 +137,16 @@ BCPC currently relies upon a number of open-source packages:
  - [Percona XtraDB Cluster](http://www.percona.com/software/percona-xtradb-cluster)
  - [PowerDNS](https://www.powerdns.com/)
  - [RabbitMQ](http://www.rabbitmq.com/)
- - [Ubuntu](http://www.ubuntu.com/)
- - [Vagrant](http://www.vagrantup.com/) - Verified with version 1.2.2
- - [VirtualBox](https://www.virtualbox.org/) - Verified with version 4.2.12
+ - [Ubuntu](http://www.ubuntu.com/) - Verified with Jul 12 precise-server-cloudimg-amd64-vagrant-disk1.box
+ - [Vagrant](http://www.vagrantup.com/) - Verified with version 1.2.3
+ - [VirtualBox](https://www.virtualbox.org/) - Verified with version 4.2.16
+ - [VirtualBox Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/) - Verified with version 4.2.16
 
 Thanks to all of these communities for producing this software!
+
+I modified some of the script to optimize for my iMac
+Running under OS X version 10.8.4
+32GB Ram
+2 TB Fusion Drive
+2.93 Ghz I7
+
